@@ -1,4 +1,4 @@
-# Sprint 7 project
+# Jest API project
 
 For this project we will be testing different endpoints using the Urban Grocers API. We will use GET, POST, PUT, and DELETE requests and create tests for each endpoint. Initial project files repo will be cloned from Github. Updated project changes will be commited and pushed.
 Javascript, Jest, and Node will be used in this project.
